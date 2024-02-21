@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I am a passionate computer engineering student with a deep fascination for technology and its ever-evolving landscape. From a young age, I was drawn to the world of computers, and that curiosity has driven me to pursue a career in this dynamic field.
 
-![image](https://github.com/flutter-siddhant/Dev.Siddhant/assets/155568644/d22f5293-3986-42a4-ab87-9c97464fc7f8)
-
-
+![](./octocat-1704092324902.png)
 
 ## 🔧 Technologies & Tools
 
